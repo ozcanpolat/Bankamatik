@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\bin\Debug\netcoreapp3.1\Bankamatik.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Bankamatik\Bankamatik\obj\Debug\netcoreapp3.1\Bankamatik.genruntimeconfig.cache
